@@ -1,6 +1,6 @@
 https://aviv-jessie.itch.io/assignment
 
-### Our assignment is in InfinitLimit script inside collision.
+### Our assignment is in InfinitLimit script inside collision. (Assets/Scripts/3-collisions/InfinitLimit.cs)
 
 
 # Unity week 2: Formal elements
