@@ -1,26 +1,25 @@
+Hello, Welcome to our games!
+
+ We are learning PC-Game development, and our assignments its to make changes in spaceship game.
+
+We made another changes every section, in this section, we changed the walls attributes and collisions:
+
+### Our assignment is in InfinitLimit script inside collision.
+
+the game:
 https://aviv-jessie.itch.io/assignment
 
-### Our assignment is in InfinitLimit script inside collision. (Assets/Scripts/3-collisions/InfinitLimit.cs)
 
-
-# Unity week 2: Formal elements
-
-A project with step-by-step scenes illustrating some of the formal elements of game development in Unity, including: 
-
-* Prefabs for instantiating new objects;
-* Colliders for triggering outcomes of actions;
-* Coroutines for setting time-based rules.
-
-Text explanations are available 
-[here](https://github.com/erelsgl-at-ariel/gamedev-5780) in folder 06.
-
-NOTE: When you first open this project, you may not see the text in the score field.
-This is because TextMesh Pro is not in the project.
-The Unity Editor should hopefully prompt you to import TextMeshPro;
-once you do this, re-open the scenes, and you should be able to see the texts.
+# Changes:
+* Assets\Scripts\3-collisions\InfinitLimit.cs
 
 ## Credits
+### Assignment solver
+* Aviv
+* Omri
+* Jessica
 
+### Assignment writer
 Programming:
 * Maoz Grossman
 * Erel Segal-Halevi
