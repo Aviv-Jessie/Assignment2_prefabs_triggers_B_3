@@ -7,6 +7,7 @@ public class InfinitLimit: MonoBehaviour
     enum Limit {Left, Right, Top ,Bottom}
     [Tooltip("Every object tagged with this tag will trigger the destruction of this object")]
     [SerializeField] string triggeringTag;
+    [Tooltip("Wall in left,right,top or button")]
     [SerializeField] Limit limit;
     [Tooltip("The size of the boarders can be changed according to the board size")]
     [SerializeField] int LeftRight = 16;
